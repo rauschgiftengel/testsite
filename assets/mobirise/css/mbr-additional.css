@@ -1280,32 +1280,32 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1920x1171.jpg");
 }
-.cid-rMapw4XNf5 {
-  padding-top: 45px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/mbr-1920x1171.jpg");
+.cid-rMaG07VGUH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-rMapw4XNf5 .item {
+.cid-rMaG07VGUH .item {
   padding-bottom: 2rem;
 }
-.cid-rMapw4XNf5 .item-wrapper {
+.cid-rMaG07VGUH .item-wrapper {
   height: 100%;
 }
-.cid-rMapw4XNf5 .item-wrapper img {
+.cid-rMaG07VGUH .item-wrapper img {
   height: 100%;
   object-fit: cover;
 }
-.cid-rMapw4XNf5 .carousel-control,
-.cid-rMapw4XNf5 .close {
+.cid-rMaG07VGUH .carousel-control,
+.cid-rMaG07VGUH .close {
   background: #1b1b1b;
 }
-.cid-rMapw4XNf5 .carousel-control-prev {
+.cid-rMaG07VGUH .carousel-control-prev {
   margin-left: 2.5rem;
 }
-.cid-rMapw4XNf5 .carousel-control-next {
+.cid-rMaG07VGUH .carousel-control-next {
   margin-right: 2.5rem;
 }
-.cid-rMapw4XNf5 .close {
+.cid-rMaG07VGUH .close {
   position: fixed;
   opacity: .5;
   font-size: 35px;
@@ -1327,15 +1327,15 @@ section.lazy-placeholder:after {
   transition: opacity .3s ease;
   font-family: 'MobiriseIcons';
 }
-.cid-rMapw4XNf5 .close::before {
+.cid-rMaG07VGUH .close::before {
   content: '\e91a';
 }
-.cid-rMapw4XNf5 .close:hover {
+.cid-rMaG07VGUH .close:hover {
   opacity: 1;
   background: #000;
   color: #fff;
 }
-.cid-rMapw4XNf5 .carousel-control {
+.cid-rMaG07VGUH .carousel-control {
   position: fixed;
   width: 70px;
   height: 70px;
@@ -1353,62 +1353,62 @@ section.lazy-placeholder:after {
   -o-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
 }
-.cid-rMapw4XNf5 .carousel-inner > .active {
+.cid-rMaG07VGUH .carousel-inner > .active {
   display: block;
 }
-.cid-rMapw4XNf5 .carousel-control.left {
+.cid-rMaG07VGUH .carousel-control.left {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rMapw4XNf5 .carousel-control.right {
+.cid-rMaG07VGUH .carousel-control.right {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rMapw4XNf5 .carousel-control .icon-next,
-.cid-rMapw4XNf5 .carousel-control .icon-prev {
+.cid-rMaG07VGUH .carousel-control .icon-next,
+.cid-rMaG07VGUH .carousel-control .icon-prev {
   margin-top: -18px;
   font-size: 40px;
   line-height: 27px;
 }
-.cid-rMapw4XNf5 .carousel-control:hover {
+.cid-rMaG07VGUH .carousel-control:hover {
   background: #1b1b1b;
   color: #fff;
   opacity: 1;
 }
 @media (max-width: 768px) {
-  .cid-rMapw4XNf5 .carousel-control,
-  .cid-rMapw4XNf5 .carousel-indicators,
-  .cid-rMapw4XNf5 .modal .close {
+  .cid-rMaG07VGUH .carousel-control,
+  .cid-rMaG07VGUH .carousel-indicators,
+  .cid-rMaG07VGUH .modal .close {
     position: fixed;
   }
 }
 @media (max-width: 767px) {
-  .cid-rMapw4XNf5 .mbr-slider .carousel-control {
+  .cid-rMaG07VGUH .mbr-slider .carousel-control {
     top: auto;
     bottom: 20px;
   }
-  .cid-rMapw4XNf5 .mbr-slider > .container .carousel-control {
+  .cid-rMaG07VGUH .mbr-slider > .container .carousel-control {
     margin-bottom: 0;
   }
 }
-.cid-rMapw4XNf5 .carousel-indicators {
+.cid-rMaG07VGUH .carousel-indicators {
   bottom: 0;
   margin-bottom: 3px;
 }
 @media (max-width: 991px) {
-  .cid-rMapw4XNf5 .carousel-indicators {
+  .cid-rMaG07VGUH .carousel-indicators {
     margin-bottom: 3.625rem !important;
     padding-left: 2.5rem;
     padding-right: 2.5rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rMapw4XNf5 .carousel-indicators {
+  .cid-rMaG07VGUH .carousel-indicators {
     display: none;
   }
 }
-.cid-rMapw4XNf5 .carousel-indicators .active,
-.cid-rMapw4XNf5 .carousel-indicators li {
+.cid-rMaG07VGUH .carousel-indicators .active,
+.cid-rMaG07VGUH .carousel-indicators li {
   width: 7px;
   height: 7px;
   margin: 3px;
@@ -1416,58 +1416,58 @@ section.lazy-placeholder:after {
   opacity: .5;
   border: 4px solid #1b1b1b;
 }
-.cid-rMapw4XNf5 .carousel-indicators .active {
+.cid-rMaG07VGUH .carousel-indicators .active {
   background: #fff;
 }
-.cid-rMapw4XNf5 .carousel-indicators li {
+.cid-rMaG07VGUH .carousel-indicators li {
   max-width: 15px;
   max-height: 15px;
   border-radius: 50%;
 }
-.cid-rMapw4XNf5 .modal {
+.cid-rMaG07VGUH .modal {
   padding-left: 0 !important;
   position: fixed;
   overflow: hidden;
   padding-right: 0 !important;
 }
-.cid-rMapw4XNf5 .modal-dialog {
+.cid-rMaG07VGUH .modal-dialog {
   margin: 0 auto;
   max-width: 100%;
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-rMapw4XNf5 .modal-content {
+.cid-rMaG07VGUH .modal-content {
   border-radius: 0;
   border: none;
   background: transparent;
 }
-.cid-rMapw4XNf5 .modal-body {
+.cid-rMaG07VGUH .modal-body {
   padding: 0;
   display: flex;
   align-items: center;
 }
-.cid-rMapw4XNf5 .modal-body img {
+.cid-rMaG07VGUH .modal-body img {
   width: 100%;
   object-fit: contain;
   max-height: calc(98.25vh);
 }
-.cid-rMapw4XNf5 .carousel {
+.cid-rMaG07VGUH .carousel {
   width: 100%;
 }
-.cid-rMapw4XNf5 .modal-dialog .carousel-inner {
+.cid-rMaG07VGUH .modal-dialog .carousel-inner {
   height: auto;
 }
-.cid-rMapw4XNf5 .modal-backdrop.in {
+.cid-rMaG07VGUH .modal-backdrop.in {
   opacity: .8;
 }
-.cid-rMapw4XNf5 .modal.fade .modal-dialog {
+.cid-rMaG07VGUH .modal.fade .modal-dialog {
   -webkit-transition: margin-top 0.3s ease-out;
   -moz-transition: margin-top 0.3s ease-out;
   -o-transition: margin-top 0.3s ease-out;
   transition: margin-top 0.3s ease-out;
 }
-.cid-rMapw4XNf5 .modal.fade .modal-dialog,
-.cid-rMapw4XNf5 .modal.in .modal-dialog {
+.cid-rMaG07VGUH .modal.fade .modal-dialog,
+.cid-rMaG07VGUH .modal.in .modal-dialog {
   -webkit-transform: none;
   -ms-transform: none;
   -o-transform: none;
